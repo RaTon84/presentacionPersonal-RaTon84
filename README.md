@@ -23,8 +23,10 @@ Actualmente estoy haciendo un curso de Spring Boot en aluraLatam. Me gusta todo 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,bootstrap,git)](https://skillicons.dev)
 
 
-  <img  src="./assets/foto.jpg" alt="logo-unahur" width="300" height="300" />
- 
+  
+ <div align="start">
+  <img  src="./assets/foto.jpg" alt="logo-unahur" width="250" height="250" />
+</div>  
 
 ## Mis gustos
 
@@ -42,7 +44,10 @@ Mi objetivo ahora es encontrar lo antes posible un trabajo el cual me de experie
 <img src=https://skillicons.dev/icons?i=gmail /></a>
 <a href="https://www.linkedin.com/in/hernan-viltez-434418297/">
 <img src=https://skillicons.dev/icons?i=linkedin /></a>
+<a href="https://github.com/RaTon84">
+<img src=https://skillicons.dev/icons?i=github /></a>
 </a>
+
 
 ## Estadisticas Github
 

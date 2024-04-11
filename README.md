@@ -22,6 +22,10 @@ Actualmente estoy haciendo un curso de Spring Boot en aluraLatam. Me gusta todo 
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,js,html,css,bootstrap,git)](https://skillicons.dev)
 
+
+  <img  src="./assets/foto.jpg" alt="logo-unahur" width="300" height="300" />
+ 
+
 ## Mis gustos
 
 Desde chico siempre me gustaron los video juegos, Counter Strike desde el 1.5 hasta el actual CS2, DOTA2, Destiny2, son algunos de los que cuando tengo tiempo juego.

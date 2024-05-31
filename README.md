@@ -25,7 +25,7 @@ Actualmente estoy haciendo un curso de Spring Boot en aluraLatam. Me gusta todo 
 
   
  <div align="start">
-  <img  src="./assets/foto.jpg" alt="logo-unahur" width="250" height="250" />
+  <img  src="./assets/foto.jpg" alt="logo-unahur" width="220" height="250" />
 </div>  
 
 ## Mis gustos

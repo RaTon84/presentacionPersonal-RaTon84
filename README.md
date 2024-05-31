@@ -34,7 +34,7 @@ Desde chico siempre me gustaron los video juegos, Counter Strike desde el 1.5 ha
 
 Me concidero autodidacta y aprendo muy rapido (el meter mano e investigar), toco la guitarra la cual aprendi solo, bajo y bateria, estuve en algunas bandas de rock hace años. 
 
-Mi clave a tierra es la pesca, soy timonel yate a motor para salir de pesca cuando se puede o lo necesito.
+Mi cablee a tierra es la pesca, soy timonel yate a motor para salir de pesca cuando se puede o lo necesito.
 
 Mi objetivo ahora es encontrar lo antes posible un trabajo el cual me de experiencia en programacion y poder especializarme profesionalmente en este rubro.
 
